@@ -3,5 +3,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <iframe src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://media.discordapp.net/attachments/1001994127212294176/1010586838064443412/unknown.png" />
 </p>
